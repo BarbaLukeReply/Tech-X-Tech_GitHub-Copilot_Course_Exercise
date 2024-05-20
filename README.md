@@ -22,3 +22,10 @@ Good luck and have fun! 🎉
 - [GitHub Copilot Shortcuts](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-github-copilot-in-your-environment#keyboard-shortcuts-for-github-copilot): Master these shortcuts and become a coding wizard with GitHub Copilot!
 - [GitHub Copilot FAQ](https://github.com/orgs/community/discussions/47318): Got questions? The GitHub Copilot FAQ has all the answers you need!
 - [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/): Discover how GitHub Copilot keeps your code and data safe at the Trust Center!
+
+## Refresher on the Principles of Prompt Engineering (The 4 S's)
+
+- **Single**: Ensure each prompt tackles one clearly defined task or question.
+- **Specific**: Offer detailed, explicit instructions to eliminate ambiguity.
+- **Short**: Aim for concise and focused prompts.
+- **Surround**: Enhance Copilot's context with descriptive filenames, open relevant files, and use informative comments.
