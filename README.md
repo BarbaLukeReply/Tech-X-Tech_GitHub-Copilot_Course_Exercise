@@ -33,4 +33,4 @@ Good luck and have fun! 🎉
 ## ➡️ What's next for GitHub Copilot?
 
 - [GitHub Copilot Workspace](https://github.blog/2024-04-29-github-copilot-workspace/): Copilot-native developer environment.
-- [GitHub Copilot Extensions](https://github.blog/2024-05-21-introducing-github-copilot-extensions/): The world's knowledge into GitHub Copilot.
+- [GitHub Copilot Extensions](https://github.blog/2024-05-21-introducing-github-copilot-extensions/): Integrations of external tools into GitHub Copilot Chat.
