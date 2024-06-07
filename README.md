@@ -1,10 +1,10 @@
-# 💻 GitHub Copilot Labcamp
+# 💻 GitHub Copilot Tech-X-Tech Course
 
-Welcome to the [GitHub Copilot](https://github.com/features/copilot) labcamp! 🚀
+Welcome to the [GitHub Copilot](https://github.com/features/copilot) Tech-X-Tech Course! 🚀
 
-In this labcamp, you will learn how GitHub Copilot can help you in your daily coding tasks. You will use GitHub Copilot to generate code, tests, documentation, and more.
+In this Tech-X-Tech Course, you will learn how GitHub Copilot can help you in your daily coding tasks. You will use GitHub Copilot to generate code, tests, documentation, and more.
 
-This labcamp is divided into several exercises. Each exercise has its own folder with a `README.md` file that contains the instructions for that exercise.
+This Tech-X-Tech Course is divided into several exercises. Each exercise has its own folder with a `README.md` file that contains the instructions for that exercise.
 
 Before we start, make sure you have this prerequisites installed on your machine:
 
